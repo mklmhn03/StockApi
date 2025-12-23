@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "//V16RKNgEQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mukoo\\Documents\\Codes\\Interviews\\Group_By_Day_API (Prometheus Group)\\StockApi\\StockApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mukoo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\mukoo\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
